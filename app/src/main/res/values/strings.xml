@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">One Way</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    <string name="title_activity_vectory_engine"></string>
+    <string name="lose">OOPS!</string>
+    <string name="win">You win!</string>
+    <string name="reset_game">Reset Game</string>
+    <string name="results_format">Total time: %1$.1f</string>
+    <string name="titleInstruction">How To Play</string>
+    <string name="instructionOne">1. Memorize path from red dot to blue dot.</string>
+    <string name="instructionTwo">2. Walk along the path once it is erased.</string>
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+
+</resources>

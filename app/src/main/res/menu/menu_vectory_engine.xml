@@ -1,0 +1,15 @@
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    tools:context="com.vectorygame.marcel.vectory.VectoryEngineActivity">
+
+
+    <item android:id="@+id/action_info"
+        android:title="How To Play"
+        android:orderInCategory="0"
+        />
+    <item android:id="@+id/action_reset"
+        android:title="Clear Scores"
+        android:orderInCategory="1"
+        />
+
+</menu>
